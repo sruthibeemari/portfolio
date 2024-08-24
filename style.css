@@ -1,0 +1,150 @@
+.div1{
+    background-color: rgb(26, 115, 98);
+    text-transform: uppercase;
+    padding: 20px;
+    text-align: center;
+    font-size: 13px;
+    text-decoration: none;
+    
+}
+.a{
+    color: white;
+    text-decoration: none;
+    
+    
+}
+.div2{
+    background-color: aliceblue;
+    width: 700px;
+    box-shadow: 10px 10px 10px rgb(207, 203, 203);
+    text-align: center;
+    padding: 30px;
+    margin-left: 21%;
+}
+.div3{
+    background-color: aliceblue;
+    width: 600px;
+    height: 20px;
+    box-shadow: 10px 10px 10px rgb(207, 203, 203);
+    padding: 80px;
+    margin-left: 21%;
+
+}
+.about{
+    position: absolute;
+    top: 180px;
+    left:280px ;
+   
+}
+.img1{
+    width:90px;
+    border-radius:80px; 
+    border: 3px solid rgb(16, 16, 16);
+    position: relative;
+    left:-70px ;
+    top: -25px;
+}
+.p1{
+    position: relative;
+    left: 80px;
+    bottom: 100px;
+}
+.div4{
+    background-color: aliceblue;
+    width: 600px;
+    height: 20px;
+    box-shadow: 10px 10px 10px rgb(207, 203, 203);
+    padding:  0px 160px 200px 0px ;
+    margin-left: 21%;
+ 
+}
+.p2{
+    position: relative;
+   right:-14px;
+    top: 10px;
+}
+.table{
+    position: relative;
+    top: 10px;
+    width: 730px;
+    right: -14px;
+    border-color: rgb(255, 255, 255);
+}
+.div5{
+    background-color: aliceblue;
+    width: 600px;
+    box-shadow:10px 10px 10px  rgb(207, 203, 203);
+    margin-left: 21%;
+    padding:  0px 160px 0px 0px ;
+}
+.p3{
+    position:relative;
+    top: 15px;
+}
+.subdiv1{
+    background-color: rgba(150, 150, 150, 0.364);
+    box-shadow:10px 10px 10px rgb(207, 203, 203);
+    width:200px;
+    position: relative;
+    top: 28px;
+    left: 20px;
+    padding: 10px 18px 20px 0px;
+    border-radius:8%;
+    text-align: center;
+}
+.subdiv2{
+    background-color: rgba(150, 150, 150, 0.364);
+    box-shadow:10px 10px 10px rgb(207, 203, 203) ;
+    width:200px;
+    position: relative;
+   bottom: 105px;
+    left: 250px;
+    padding:10px 18px 20px 0px;
+    border-radius:8%;
+    text-align: center;
+}
+.subdiv3{
+    background-color: rgba(150, 150, 150, 0.364);
+    box-shadow:10px 10px 10px rgb(207, 203, 203);
+    width:200px;
+    position: relative;
+    bottom: 90px;
+    left: 20px;
+    padding: 10px 18px 20px 0px;
+    border-radius:8%;
+    text-align: center;
+}
+.div6{
+    background-color: aliceblue;
+    width: 500px;
+    height: 300px;
+    box-shadow: 10px 10px 10px rgb(207, 203, 203);
+    padding: 10px 250px 29px 10px;
+    margin-left: 21%;
+}
+.form{
+    width: 500px;
+    height: 40px;
+    border: white;
+}
+.button{
+   background-color: rgb(27, 150, 58);
+   border: white;
+   color:white;
+   padding: 10px 10px 10px 10px;
+}
+.footer{
+    background-color: rgb(26, 115, 98);
+    padding: 20px 50px 80px 20px;
+    position:absolute;
+    left: 0;
+    right: 0;
+    z-index: 2;
+    text-align: center;
+
+}
+.copy{
+    margin-top: 50px;
+    color: white;
+    
+}
